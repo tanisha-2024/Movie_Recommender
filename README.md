@@ -1,9 +1,10 @@
 # Content-Based Movie Recommendation System
+
+This project is a content-based filtering movie recommendation system that suggests movies to users based on the similarity of movie features using cosine similarity. The system is built with Python and Streamlit for the web interface and  uses a Jupyter Notebook for the implementation and demonstration.
 ![movie1](https://github.com/user-attachments/assets/b85a1956-56d2-4239-9a53-b022c28624c7)
 ![movie2](https://github.com/user-attachments/assets/1c984d98-048d-433a-8959-2c60612f9f48)
 
 
-This project is a content-based filtering movie recommendation system that suggests movies to users based on the similarity of movie features using cosine similarity. The system is built with Python and Streamlit for the web interface and  uses a Jupyter Notebook for the implementation and demonstration.
 
 ## Project Overview
 
@@ -23,5 +24,13 @@ The movie recommendation system takes user input for a favorite movie and sugges
 - Pandas
 - NumPy
 - Pickle (for saving and loading pre-processed data)
+- scikit-learn
+
+Install the required Python packages:
+pip install jupyter pandas numpy scikit-learn pickle
+
+Run project using webapp.py:
+streamlit run webapp.py
+
 
 

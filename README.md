@@ -28,7 +28,7 @@ The movie recommendation system takes user input for a favorite movie and sugges
 
 Download from releases:
 similarity1.pkl
-tmdb_5000_credits.xls
+and unzip tmdb_5000_credits.🤐 to obtain xls file
 
 Install the required Python packages:
 pip install jupyter pandas numpy scikit-learn pickle

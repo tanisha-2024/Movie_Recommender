@@ -26,6 +26,10 @@ The movie recommendation system takes user input for a favorite movie and sugges
 - Pickle (for saving and loading pre-processed data)
 - scikit-learn
 
+Download from releases:
+similarity1.pkl
+tmdb_5000_credits.xls
+
 Install the required Python packages:
 pip install jupyter pandas numpy scikit-learn pickle
 
